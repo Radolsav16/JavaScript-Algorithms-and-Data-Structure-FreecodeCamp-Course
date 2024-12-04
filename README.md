@@ -1,2 +1,3 @@
 # JavaScript-Algorithms-and-Data-Structure-FreecodeCamp-Course
-Work of FreeCodeCamp JavaScript Algoritms and Data Strciteres course!
+This is all my new  rebuild projects from  FreeCodeCamp JavaScript Algoritms and Data Strciteres course!
+
